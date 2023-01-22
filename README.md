@@ -2,6 +2,7 @@
 My personal [awesome list](https://github.com/topics/awesome-list) of software and resources
 
 ## Table of contents
+- [Privacy](#privacy)
 - [Security](#security)
   
 ## Security
